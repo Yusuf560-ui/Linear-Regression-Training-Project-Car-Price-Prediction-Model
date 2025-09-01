@@ -3,7 +3,7 @@ Predicting Car prices with a local dataset on Kaggle Using Linear Regression
 
 ## What is the objective of the project?
 This is a training project. I got the dataset from
-[Kaggle](https://www.kaggle.com/code/mo722023/project-car-price-prediction).
+[Kaggle](https://www.kaggle.com/datasets/car-price-prediction).
 The goal is to apply machine learning techniques especially linear regression to build a model that predicts car prices using available features 
 - symboling
 - CarName
